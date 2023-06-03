@@ -1,12 +1,15 @@
-## Hi there 👋
+# BIENVENIDOS TVEEZ PANAMA 👋
 
+Descripción
 
+Expertos en transformación digital, sistemas de filas, identificación biométrica, omnicanalidad, desarrollo de softwares de autogestión y control de accesos por biometría y autogestión. 
+Nuestras soluciones están diseñadas para optimizar el tiempo, maximizar la productividad y ofrecer transacciones más seguras al digitalizar sus procesos de atención al cliente. Empiece a ofrecer una experiencia fácil, rápida y sin contacto, a través de nuestros sistemas y plataformas de atención creadas para industrias como la banca, retail, salud, servicios y gobierno.
 
-**Here are some ideas to get you started:**
+## Autores ✒️
+* [**MATIAS ARTETA** - *DevOps*](https://github.com/matiasxplor)
+* [**GILBERTO BECKFORD** - *FullStack*](https://github.com/GbeckXplor)
+* [**SAMUEL VÁSQUEZ** - *FullStack*](https://github.com/samyr0722)
+* [**JORGE MARTINEZ** - *QA*](https://github.com/jorgermp28)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+Correo electrónico: devops@getxplor.com
+https://getxplor.com
