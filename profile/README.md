@@ -7,7 +7,6 @@ Nuestras soluciones están diseñadas para optimizar el tiempo, maximizar la pro
 
 ## Autores ✒️
 * [**MATIAS ARTETA** - *DevOps*](https://github.com/matiasxplor)
-* [**GILBERTO BECKFORD** - *FullStack*](https://github.com/GbeckXplor)
 * [**SAMUEL VÁSQUEZ** - *FullStack*](https://github.com/samyr0722)
 * [**JORGE MARTINEZ** - *QA*](https://github.com/jorgermp28)
 
