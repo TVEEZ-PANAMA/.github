@@ -10,7 +10,7 @@ Nuestras soluciones están diseñadas para optimizar el tiempo, maximizar la pro
 * [**SAMUEL VÁSQUEZ** - *FullStack*](https://github.com/samyr0722)
 * [**CARLOS J. PEÑALBA** - *FullStack*](https://github.com/carlosxplor)
 * [**JAVIER A. CARRIÓN** - *Frontend*](https://github.com/javieralexander15)
-* [**SHAMU VARGAS** - *QA*](https://github.com/zShamu)
+* [**SHAMUEL VARGAS** - *QA*](https://github.com/zShamu)
 
 Correo electrónico: devops@getxplor.com
 https://getxplor.com
